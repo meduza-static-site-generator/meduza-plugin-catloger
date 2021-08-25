@@ -1,7 +1,7 @@
 {
     "name": "meduza-static-site-generator/meduza-plugin-catloger",
     "description": "Plugin para cataloga\u0000\u0000o de conte\u0000do de acordo com os dados do frontmatter",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
