@@ -1,14 +1,23 @@
 {
     "name": "meduza-static-site-generator/meduza-plugin-catloger",
-    "description": "Plugin para cataloga\u0000\u0000o de conte\u0000do de acordo com os dados do frontmatter",
-    "type": "library",
-    "license": "MIT",
+    "description": "Plugin para catalogação de conteudo de acordo com os dados do frontmatter",
+    "keywords": ["php8", "php", "static site generator", "static site", "plugin"],
+    "homepage": "https://github.com/meduza-static-site-generator/meduza-plugin-catloger/",
+    "readme": "README.md",
     "authors": [
         {
             "name": "Everton da Rosa",
-            "email": "everton3x@gmail.com"
+            "email": "everton3x@gmail.com",
+            "homepage": "https://everton3x.github.io",
+            "role": "developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/meduza-static-site-generator/meduza-plugin-catloger/issues",
+        "source": "https://github.com/meduza-static-site-generator/meduza-plugin-catloger/"
+    },
+    "type": "library",
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
